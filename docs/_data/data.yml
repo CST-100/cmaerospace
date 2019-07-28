@@ -1,0 +1,6 @@
+- label: California Model Aerospace
+  items:
+    - name: Home
+      link: /
+    - name: Blog
+      link: /blog/
