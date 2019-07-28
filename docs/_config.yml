@@ -1,1 +1,4 @@
 remote_theme: chrisrhymes/bulma-clean-theme
+defaults:
+  -
+    image: /photos/CMABanner2.png
