@@ -7,7 +7,7 @@
 
 January 20, 2020 saw the launch of TR-1, the first fully 3D printed high power rocket. Flying on a G77R-7, it had a top speed of 232 mph (104m/s), and reached an altitude of 1,364 feet (416 m). With the flight of TR-1, we're announcing three new things!
 
-First of all, we're announcing the **California Model Aerospace Store!** It should be accessible beginning today ![here!](https://cmaero.space/store/store.html]. Currently, TR-1 and replacement mounts are available for sale. All orders are currently made to ship, and will take about two weeks to arrive.
+First of all, we're announcing the **California Model Aerospace Store!** It should be accessible beginning today [here!](https://cmaero.space/store/store.html]. Currently, TR-1 and replacement mounts are available for sale. All orders are currently made to ship, and will take about two weeks to arrive.
 
 Next up, we have two new developments: TR-1X and TR-2.
 TR-1X is a supersonic, minimum diameter version of the 29mm TR-1. It can go supersonic on a G80 NBT (Mach 1.2!) and is equivalent in role to an Apogee Aspire, however, with a major difference: TR-1X absolutely bypasses the need for high strength heat baffles to prevent recovery systems from burning. This is done by routing ejection charge gases through the walls of the rocket, while keeping the parachute in the middle safe. This saves a lot of risk when it comes to heat protection!
