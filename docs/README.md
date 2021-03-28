@@ -1,30 +1,30 @@
 # Welcome to California Model Aerospace
-<iframe width="100%" height="320px" src="https://www.youtube-nocookie.com/embed/sX70Vy1feDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br> <br>
-## New Developments: TR-1 Launch, TR-1X/TR-2 Development!
-**4.10.2020**
+## Project Restart
+**3.28.2021**
+*Lavie Ohana* 
 
-January 20, 2020 saw the launch of TR-1, the first fully 3D printed high power rocket. Flying on a G77R-7, it had a top speed of 232 mph (104m/s), and reached an altitude of 1,364 feet (416 m). With the flight of TR-1, we're announcing three new things!
+After an over one year long break, CMA is being revived - from scratch, more or less. Let's explain that in more detail:
 
-First of all, we're announcing the [**California Model Aerospace Store!**](https://cmaero.space/store.html) It should be accessible beginning today [here!](https://cmaero.space/store.html) Currently, TR-1 and replacement mounts are available for sale. All orders are currently made to ship, and will take about two weeks to arrive.
+### Why restart?
 
-Next up, we have two new developments: TR-1X and TR-2.
-TR-1X is a supersonic, minimum diameter version of the 29mm TR-1. It can go supersonic on a G80 NBT (Mach 1.2!) and is equivalent in role to an Apogee Aspire, however, with a major difference: TR-1X absolutely bypasses the need for high strength heat baffles to prevent recovery systems from burning. This is done by routing ejection charge gases through the walls of the rocket, while keeping the parachute in the middle safe. This saves a lot of risk when it comes to heat protection!
+The project had goals that were too lofty, and I never had enough time to complete them. The pace was unbearably slow - just one launch per year - but I still expected to get a high degree of support. That's just not possible. From now on, I'm taking a balanced, yet rapid, approach, focused on prototyping and branching out. The baseline of CMA is still the same - cost efficiency via additive manufacturing - but I'd like to branch out to more than just airframes. Flight computers (not TVC yet!), motors, and other complex systems are stuff that I'd like to try and will be enabled by this project.
 
-The second development, TR-2, is a 108mm rocket. It is compatible with 38 and 54 millimeter motors. We can't comment too much on TR-2's current status, but it will be here within the year!
+### What's being scrapped?
 
-Lastly, stay safe, everyone. We truly wish the best for everyone out there! Fly safe,
+Everything but the TR-1 project. TR-1, for those who don't know, is a 54mm, fully 3D-printed rocket capable of L1 certification. I've flown it once before on a G77, the footage of that exists somewhere (albeit with the inclusion of my little brother screaming), but that's beside the point. I'm actively working on reviving it for another attempt as soon as next month, so stay tuned. (It needs new fins, a new upper body, and a couple other things.)
 
-Lavie Ohana, California Model Aerospace CEO/Founder.
+The TR-1X project, which was supposed to be a 29mm minimum diameter Mach-breaker rocket, is being scrapped. It doesn't fit the budget, and it's a bit too much effort for a rocket I'll likely never get back.
 
-## Coming Soon: Tritium Zero (TR-0)
-**9.12.2019**
-![TR-0 Prototype Information Sheet](https://github.com/CST-100/cmaerospace/raw/master/docs/photos/EEYfYODXkAAYBFb.jpg "TR-0 Prototype Sheet")
+The CMA store and Patreon are on hold - for now. I vastly misjudged how successful the project would be with me putting minimum effort into it, and the overruns led to those not being viable. Besides, I don't think it's worth asking for money for a project that barely does anything so far. Once enough people want to support it, I may consider starting those back up. 
 
+The TR-2 project, which is, as the name suggests, an upscaled TR-1 meant for L2 at a 108mm diameter, is on hiatus. I'd love to build a rocket that big someday - but we're just not there yet. Low-cost, mid-power is the name of the game right now. What can we get done on a shoestring budget? Well...
 
-  Low cost, medium power rocketry: TR-0. With options for both 24mm and 29mm motor mounts, it comes as a 3 piece airframe that is projected to cost only $9.99 (Subject to change, preliminary estimate.). With a 54mm wide airframe, it's a minute-long build, coming in 3 blocks, the lower block, containing the motor mount, lower body, and fins, the upper block, which contains a heat baffle, and room for a parachute (24 inch is reccomended), and the nosecone. These all friction fit, and so far the 24mm variant has been tested with an E30-4T resulting in an extremely stable flight to an estimated 1,130 feet. 
+### What's new? 
 
-Video of the first flight of TR-0 coming soon, however, it can be seen as the large, purely orange rocket in the "Going Commercial" video. Release is targeted for Winter 2019/20.
+CMA is being restarted on a ~$250 budget. This is enough for a few things:
+|Project|Budget|
+|-------|------|
+|TR-1 Reflight Program|$100|
 
-**Infographic is accurate to the original TR-0 prototype. The commercial version will be longer, and considerably lighter. The prototype used a 90% density nose cone, which is mass inefficient, but made the short stubby design stable, which was necessary due to restrictions at the time.*
+*Edit In Progress*
